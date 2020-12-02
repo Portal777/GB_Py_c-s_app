@@ -1,0 +1,67 @@
+{
+    "orders": [
+        {
+            "item": "printer",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "computer",
+            "quantity": "5",
+            "price": "40000",
+            "buyer": "Sidorov S.S.",
+            "date": "2.05.2019"
+        },
+        {
+            "item": "printer",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "computer",
+            "quantity": "5",
+            "price": "40000",
+            "buyer": "Sidorov S.S.",
+            "date": "2.05.2019"
+        },
+        {
+            "item": "Xerox",
+            "quantity": 1,
+            "price": 10000,
+            "buyer": "Penkov D.E.",
+            "date": "11.01.20"
+        },
+        {
+            "item": "Monitor",
+            "quantity": 3,
+            "price": 99000,
+            "buyer": "God I.L.",
+            "date": "01.01.01"
+        },
+        {
+            "item": "Video card",
+            "quantity": 1,
+            "price": 100500,
+            "buyer": "Nal G.N.",
+            "date": "20.12.20"
+        }
+    ]
+}
