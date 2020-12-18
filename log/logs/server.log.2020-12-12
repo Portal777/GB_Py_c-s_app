@@ -1,0 +1,23 @@
+2020-12-12 16:09:51,693 INFO server_log_config.py Тестовый запуск логирования
+2020-12-12 16:10:35,075 INFO server_log_config.py Тестовый запуск логирования
+2020-12-12 16:24:46,641 INFO server_log_config.py Тестовый запуск логирования
+2020-12-12 16:25:33,299 INFO server_log_config.py Тестовый запуск логирования
+2020-12-12 17:16:41,440 INFO server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1607782601.4406826, 'user': {'account_name': 'Guest'}}
+2020-12-12 17:16:41,441 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента
+2020-12-12 17:16:41,441 DEBUG server.py Отправлено сообщение клиенту: {'response': 200}
+2020-12-12 17:16:45,527 INFO server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1607782605.5278022, 'user': {'account_name': 'Guest'}}
+2020-12-12 17:16:45,528 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента
+2020-12-12 17:16:45,528 DEBUG server.py Отправлено сообщение клиенту: {'response': 200}
+2020-12-12 17:19:45,768 INFO server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1607782785.7686124, 'user': {'account_name': 'Guest'}}
+2020-12-12 17:19:45,768 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента
+2020-12-12 17:19:45,769 DEBUG server.py Отправлено сообщение клиенту: {'response': 200}
+2020-12-12 17:21:42,142 INFO server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1607782902.1423576, 'user': {'account_name': 'Guest'}}
+2020-12-12 17:21:42,142 DEBUG server.py Отправлено сообщение клиенту: {'response': 200}
+2020-12-12 17:22:46,157 INFO server.py Принято сообщение от клиента: {'action': 'presence', 'time': 1607782966.1575816, 'user': {'account_name': 'Guest'}}
+2020-12-12 17:22:46,157 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента
+2020-12-12 17:26:17,646 INFO server.py Принято "Presence"-сообщение от клиента: dict_values(['presence', 1607783177.6466067, {'account_name': 'Guest'}])
+2020-12-12 17:26:17,646 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента: {RESPONSE: 200}
+2020-12-12 17:28:24,150 INFO server.py Принято "Presence"-сообщение от клиента: ['presence', 1607783304.150121, {'account_name': 'Guest'}]
+2020-12-12 17:28:24,150 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента: {RESPONSE: 200}
+2020-12-12 17:51:50,429 INFO server.py Принято "Presence"-сообщение от клиента: ['presence', 1607784710.4288237, {'account_name': 'Guest'}]
+2020-12-12 17:51:50,429 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента: {RESPONSE: 200}

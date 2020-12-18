@@ -1,0 +1,5 @@
+2020-12-15 00:53:07,453 DEBUG server.py Была вызвана функция get_message, с параметрами: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7780), raddr=('127.0.0.1', 49182)>,), {}. Вызов был из модуля common.utils. Вызывающая функция: main_server()
+2020-12-15 00:53:07,453 INFO server.py Принято "Presence"-сообщение от клиента: ['presence', 1607982787.4525733, {'account_name': 'Guest'}]
+2020-12-15 00:53:07,453 DEBUG server.py Отправлен положительный ответ на "Presence"-сообщение клиента: {RESPONSE: 200}
+2020-12-15 00:53:07,453 DEBUG server.py Была вызвана функция process_client_message, с параметрами: ({'action': 'presence', 'time': 1607982787.4525733, 'user': {'account_name': 'Guest'}},), {}. Вызов был из модуля __main__. Вызывающая функция: main_server()
+2020-12-15 00:53:07,454 DEBUG server.py Была вызвана функция send_message, с параметрами: (<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7780), raddr=('127.0.0.1', 49182)>, {'response': 200}), {}. Вызов был из модуля common.utils. Вызывающая функция: main_server()
